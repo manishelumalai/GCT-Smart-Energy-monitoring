@@ -3,6 +3,10 @@
 	"folders": [
 		{
 			"path": "."
+		},
+		{
+			"name": "AT commands basic test",
+			"path": "../AT commands basic test"
 		}
 	],
 	"settings": {}
